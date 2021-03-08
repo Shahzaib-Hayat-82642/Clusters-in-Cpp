@@ -1,1 +1,6 @@
 # Clusters-in-Cpp
+
+by:
+SHAHZAIB HAYAT
+M.QAIS SULTANI
+RIZWAN ALI JANDAN
